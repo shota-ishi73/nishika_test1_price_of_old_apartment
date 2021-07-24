@@ -23,7 +23,7 @@ glob,pandas,numpy,matplotlib.pyplot,seaborn
 
 3)不要なカラムを削除、データ型の変換を実施する。
 
-４)Modelを作成する。(lightgbmを使用)
+4)Modelを作成する。(lightgbmを使用)
 
 5)作成したモデルを使って検証データの結果を予測
 
